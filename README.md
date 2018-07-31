@@ -1,7 +1,7 @@
 # mnist hierarchical rnn
 Taken from keras [example](https://github.com/keras-team/keras/blob/master/examples/mnist_hierarchical_rnn.py)
-Original paper - [A Hierarchical Neural Autoencoder for Paragraphs and Documents]- https://arxiv.org/abs/1506.01057
 
+Original paper - [A Hierarchical Neural Autoencoder for Paragraphs and Documents](https://arxiv.org/abs/1506.01057)
 
 Example of using Hierarchical RNN (HRNN) to classify MNIST digits.
 
